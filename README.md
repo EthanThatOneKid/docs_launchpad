@@ -1,21 +1,26 @@
-# jsonx_docs
+# Docs Launchpad
 
-Documentation site of [FartLabs/jsonx](https://github.com/FartLabs/jsonx), a JSX
-runtime for composing JSON data.
+Documentation Launchpad for all of the prpjects  [FartLabs/jsonx](https://github.com/FartLabs/)
 
-[![jsonx_docs landing page](./static/screenshot.png)](https://jsonx.deno.dev/)
 
 ## Contribute
 
-### Style
+### Instructions 
 
-Run `deno fmt` to format the code.
+Go to GitHub repository, and find the Green Button: Use this Template
 
-Run `deno lint` to lint the code.
+Click on Create a new Repository, this will make a new repository in your profile
 
-Run `deno task generate` to generate code.
+Install `deno` to your machine, learn more here(put a link here later) 
 
-Run `deno task start` to locally serve the jsonx documentation site.
+Test the website to make sure 
+
+Add markdown files under ./docks 
+
+Use an proper file names with an indices rule where we put 0x and increment based on priority
+
+Example 00_index.md, 01_getting_started.md, 02_examples.md
+
 
 ---
 
