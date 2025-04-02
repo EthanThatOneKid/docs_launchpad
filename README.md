@@ -1,2 +1,22 @@
-# docs_launchpad
-Take your documentation to the next level!
+# jsonx_docs
+
+Documentation site of [FartLabs/jsonx](https://github.com/FartLabs/jsonx), a JSX
+runtime for composing JSON data.
+
+[![jsonx_docs landing page](./static/screenshot.png)](https://jsonx.deno.dev/)
+
+## Contribute
+
+### Style
+
+Run `deno fmt` to format the code.
+
+Run `deno lint` to lint the code.
+
+Run `deno task generate` to generate code.
+
+Run `deno task start` to locally serve the jsonx documentation site.
+
+---
+
+Developed with ❤️ [**@FartLabs**](https://github.com/FartLabs)
