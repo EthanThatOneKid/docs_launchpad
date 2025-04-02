@@ -1,6 +1,6 @@
 # Docs Launchpad
 
-Documentation Launchpad for all of the prpjects  [FartLabs/jsonx](https://github.com/FartLabs/)
+Documentation Launchpad for all of the projects  [FartLabs/jsonx](https://github.com/FartLabs/)
 
 
 ## Contribute
