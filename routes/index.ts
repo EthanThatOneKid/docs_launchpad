@@ -1,1 +1,1 @@
-export * from "#/components/doc/doc.tsx";
+export { default as default } from "#/components/doc/doc.tsx";
