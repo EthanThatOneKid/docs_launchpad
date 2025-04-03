@@ -1,26 +1,27 @@
 # Docs Launchpad
 
-Documentation Launchpad for all of the projects  [FartLabs/jsonx](https://github.com/FartLabs/)
-
+Documentation Launchpad for all of the projects
+[FartLabs/jsonx](https://github.com/FartLabs/)
 
 ## Contribute
 
-### Instructions 
+### Instructions
 
 Go to GitHub repository, and find the Green Button: Use this Template
 
-Click on Create a new Repository, this will make a new repository in your profile
+Click on Create a new Repository, this will make a new repository in your
+profile
 
-Install `deno` to your machine, learn more here(put a link here later) 
+Install `deno` to your machine, learn more here(put a link here later)
 
-Test the website to make sure 
+Test the website to make sure
 
-Add markdown files under ./docks 
+Add markdown files under ./docks
 
-Use an proper file names with an indices rule where we put 0x and increment based on priority
+Use an proper file names with an indices rule where we put 0x and increment
+based on priority
 
 Example 00_index.md, 01_getting_started.md, 02_examples.md
-
 
 ---
 
